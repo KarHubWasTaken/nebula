@@ -1,17 +1,62 @@
 {
-  "001": true,
-  "002": true,
-  "003": true,
-  "004": true,
-  "005": true,
-  "006": true,
-  "007": true,
-  "008": true,
-  "009": true,
-  "010": true,
-  "011": true,
-  "012": true,
-  "013": true,
-  "014": true,
-  "015": true
+    "001": {
+        "Enabled": true,
+        "Number": 7234
+    },
+    "002": {
+        "Enabled": true,
+        "Number": 4816
+    },
+    "003": {
+        "Enabled": true,
+        "Number": 9347
+    },
+    "004": {
+        "Enabled": true,
+        "Number": 2981
+    },
+    "005": {
+        "Enabled": true,
+        "Number": 5643
+    },
+    "006": {
+        "Enabled": true,
+        "Number": 8472
+    },
+    "007": {
+        "Enabled": true,
+        "Number": 1924
+    },
+    "008": {
+        "Enabled": true,
+        "Number": 3508
+    },
+    "009": {
+        "Enabled": true,
+        "Number": 6149
+    },
+    "010": {
+        "Enabled": true,
+        "Number": 2376
+    },
+    "011": {
+        "Enabled": true,
+        "Number": 7851
+    },
+    "012": {
+        "Enabled": true,
+        "Number": 6293
+    },
+    "013": {
+        "Enabled": true,
+        "Number": 9482
+    },
+    "014": {
+        "Enabled": true,
+        "Number": 1537
+    },
+    "015": {
+        "Enabled": true,
+        "Number": 7624
+    }
 }
